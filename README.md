@@ -30,7 +30,7 @@ AI Assistant 是基於 OpenAI API 與 LINE Messaging API 實作的範例應用�
   - 點選「Verify」按鈕，驗證是否呼叫成功。
   - 將「Use webhook」功能打開。
   - 將「Auto-reply messages」功能關閉。
-  - 將「Use webhook」功能關閉。
+  - 將「Greeting messages」功能關閉。
   - 使用 LINE 手機應用程式掃描 QR code，加入好友。
 - 開始與你專屬的 AI 助理聊天！
 
